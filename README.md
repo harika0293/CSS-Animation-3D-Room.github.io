@@ -7,9 +7,6 @@ Creating an animated 3d room using pure css
 * CSS
 * JavaScript
 
-## Live link
-
-https://peter-kimanzi.github.io/3d-roompure-css/
 
 ## screenshot
 
